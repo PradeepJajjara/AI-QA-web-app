@@ -1,0 +1,5 @@
+[server]
+maxUploadSize = 50   # matches MAX_FILE_MB in dataqa/loader.py
+
+[browser]
+gatherUsageStats = false

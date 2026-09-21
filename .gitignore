@@ -1,0 +1,28 @@
+# scratch / private
+DECISIONS.md
+email.txt
+FDE_Assignment_Darwinbox.pdf
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# streamlit / os
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
+.pytest_tmp/
+.venv_clean/
+.env*
+
+# generated / local only
+*.pdf
+*.docx
+eval/*.log
+eval/*.png
+WRITEUP.md
+scripts/writeup_pdf.py
+scripts/writeup_docx.js
